@@ -9,9 +9,9 @@ QuickShift is a Java-based plugin framework in the form of a library. It is used
 * Java 1.8
 * Maven 3
 
-### Installing
+### Installation
 
 1. Get code from Git
 2. Build with Maven: ```mvn clean install```
 
-### Configuring
+### Configuration
