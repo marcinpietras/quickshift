@@ -11,6 +11,7 @@
 	<groupId>com.hockeyengine</groupId>
 	<artifactId>quickshift</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>quickshift framework</name>
 	<description>Plugin framework to improve dev performance like a quick shift</description>
 
@@ -36,14 +37,5 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 </project>
